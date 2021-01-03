@@ -1,0 +1,2 @@
+# Internet radio players based on bass.dll for Windows
+ I will release several various Internet radio players which will use bass.dll. I will be using FNX11 Basic programminglanguage to create those players. It will be 32 Bit code. FNX11 Basic is based on units available on BOrland Delphi 7.0 including VCL unit. I can create acceptable GUi thanks to this fact. I do not see at all but thanks to The nature of FNX11 Basic it is possible. 
